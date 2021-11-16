@@ -1,0 +1,17 @@
+/* css de class--> . 
+id ---> #
+*/
+
+
+  body { 
+      background-color: rgb(224, 192, 151);
+      text-align: center; 
+      list-style-position: inside
+  }
+
+h1 { 
+    color: rgb(45, 36, 36);
+    background-color: rgb(184, 92, 56);
+}
+
+
